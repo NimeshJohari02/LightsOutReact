@@ -11,3 +11,13 @@ goal of the puzzle is to switch all the lights off, preferably in as few
  # Tech Stack Used 
   1. REACT JS -> For The Board Component which would  inturn render the cell component 
   2. CSS -> Elementary To Intermidiate CSS And Design Hints From CodePen To Make the Glowing Logo .
+# To Run The App
+```sh
+nimesh at deathnote in ⌁
+╰─λ cd LightsOutReact
+╰─λ npm i -g
+╰─λ npm start
+```
+# ScreenShots
+![](public/ImageAsset1.png)
+![](public/ImageAsset2.png)
