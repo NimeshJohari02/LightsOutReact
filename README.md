@@ -19,5 +19,5 @@ nimesh at deathnote in ⌁
 ╰─λ npm start
 ```
 # ScreenShots
-![](public/ImageAsset1.png)
-![](public/ImageAsset2.png)
+
+![](public/imageAsset1.png)
